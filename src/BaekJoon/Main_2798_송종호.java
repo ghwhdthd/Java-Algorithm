@@ -2,7 +2,6 @@ package day_0208.ws;
 
 import java.util.Scanner;
 
-
 public class Main_2798_송종호 {
     static int N;
     static int M;
