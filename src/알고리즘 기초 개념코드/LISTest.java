@@ -2,7 +2,6 @@ package day_0331.liv;
 import java.util.Scanner;
 
 public class LISTest {
-
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
