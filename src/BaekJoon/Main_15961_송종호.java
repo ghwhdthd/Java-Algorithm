@@ -11,7 +11,6 @@ import java.util.StringTokenizer;
 
 public class Main_15961_송종호 {
     static int N, d, k, c;
-
     //먼저 최댓값 다 계산하는데
     // 범위를 할당해서 set에 넣고
     // set size로  최댓값 계산하고
