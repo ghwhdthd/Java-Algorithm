@@ -85,8 +85,6 @@ public class Main_15961_송종호 {
                 } else {
                     max = Math.max(cnt, max);
                 }
-
-                
                 if (max == k + 1) break;
 
             }
